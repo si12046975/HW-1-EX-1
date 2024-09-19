@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # stage changes
-git _
+git add .
 
 # commit changes
-git _
+git commit -m "completed HW-1-EX-1"
 
 # push changes
-git _
+git push
